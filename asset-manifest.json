@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/hb_traders/static/css/main.a3749949.css",
+    "main.js": "/hb_traders/static/js/main.bae1c06e.js",
+    "static/media/meal.mp4": "/hb_traders/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/bg.png": "/hb_traders/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/welcome.png": "/hb_traders/static/media/welcome.d724eb984456d9c97470.png",
+    "static/media/laurels.png": "/hb_traders/static/media/laurels.e760828692795d4aafd7.png",
+    "static/media/chef.png": "/hb_traders/static/media/chef.02d6c5b61bfdc70303b4.png",
+    "static/media/menu.png": "/hb_traders/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/gallery04.png": "/hb_traders/static/media/gallery04.c36a695f8a3b9d311106.png",
+    "static/media/gallery03.png": "/hb_traders/static/media/gallery03.b2d50180e8590d4dd330.png",
+    "static/media/gallery02.png": "/hb_traders/static/media/gallery02.27663bd9016b72ccd328.png",
+    "static/media/gallery01.png": "/hb_traders/static/media/gallery01.f2cbffe3049d6f91e0df.png",
+    "static/media/about_us.jpg": "/hb_traders/static/media/about_us.51495299c282767aacc4.jpg",
+    "static/media/trash_heading.jpg": "/hb_traders/static/media/trash_heading.d3514dc2482faa2eaa0f.jpg",
+    "static/media/findus.png": "/hb_traders/static/media/findus.56477cc21d4f81e8f4b7.png",
+    "static/media/award.png": "/hb_traders/static/media/award.7b66b2342ceb25828038.png",
+    "static/media/knife.png": "/hb_traders/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/overlaybg.png": "/hb_traders/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/scrapescale.png": "/hb_traders/static/media/scrapescale.15f84619f07c1e135b6a.png",
+    "static/media/image_gogreen.png": "/hb_traders/static/media/image_gogreen.bd969a357838f59bec4e.png",
+    "static/media/recycle-symbol(1).png": "/hb_traders/static/media/recycle-symbol(1).24c6c811333979bb8d04.png",
+    "static/media/G.png": "/hb_traders/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/logo.png": "/hb_traders/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/award02.png": "/hb_traders/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/hb_traders/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/hb_traders/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/hb_traders/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "static/media/sign.png": "/hb_traders/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "index.html": "/hb_traders/index.html",
+    "static/media/spoon.svg": "/hb_traders/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.a3749949.css.map": "/hb_traders/static/css/main.a3749949.css.map",
+    "main.bae1c06e.js.map": "/hb_traders/static/js/main.bae1c06e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3749949.css",
+    "static/js/main.bae1c06e.js"
+  ]
+}
