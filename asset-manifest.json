@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hbTraders/static/css/main.9cd48361.css",
-    "main.js": "/hbTraders/static/js/main.b28a77fd.js",
+    "main.css": "/hbTraders/static/css/main.8158e94c.css",
+    "main.js": "/hbTraders/static/js/main.938873b0.js",
     "static/media/meal.mp4": "/hbTraders/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
     "static/media/bg.png": "/hbTraders/static/media/bg.3d421b1b5682e1b67deb.png",
     "static/media/about_us.jpg": "/hbTraders/static/media/about_us.51495299c282767aacc4.jpg",
@@ -9,19 +9,21 @@
     "static/media/findus.png": "/hbTraders/static/media/findus.56477cc21d4f81e8f4b7.png",
     "static/media/award.png": "/hbTraders/static/media/award.7b66b2342ceb25828038.png",
     "static/media/overlaybg.png": "/hbTraders/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/individual.png": "/hbTraders/static/media/individual.f11a4c00babc0a191669.png",
     "static/media/scrapescale.png": "/hbTraders/static/media/scrapescale.15f84619f07c1e135b6a.png",
     "static/media/image_gogreen.png": "/hbTraders/static/media/image_gogreen.bd969a357838f59bec4e.png",
+    "static/media/business.png": "/hbTraders/static/media/business.f01520548493d73434d5.png",
     "static/media/recycle-symbol(1).png": "/hbTraders/static/media/recycle-symbol(1).24c6c811333979bb8d04.png",
     "static/media/award02.png": "/hbTraders/static/media/award02.8bbdd51499739653b003.png",
     "static/media/award05.png": "/hbTraders/static/media/award05.48a7f5206184009dcb29.png",
     "static/media/award01.png": "/hbTraders/static/media/award01.361a4bc44b59b55abeda.png",
     "static/media/award03.png": "/hbTraders/static/media/award03.3f7ee934c17dccbd5fc6.png",
     "index.html": "/hbTraders/index.html",
-    "main.9cd48361.css.map": "/hbTraders/static/css/main.9cd48361.css.map",
-    "main.b28a77fd.js.map": "/hbTraders/static/js/main.b28a77fd.js.map"
+    "main.8158e94c.css.map": "/hbTraders/static/css/main.8158e94c.css.map",
+    "main.938873b0.js.map": "/hbTraders/static/js/main.938873b0.js.map"
   },
   "entrypoints": [
-    "static/css/main.9cd48361.css",
-    "static/js/main.b28a77fd.js"
+    "static/css/main.8158e94c.css",
+    "static/js/main.938873b0.js"
   ]
 }
