@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/hbTraders/static/css/main.54c44c41.css",
-    "main.js": "/hbTraders/static/js/main.c4f49b57.js",
+    "main.js": "/hbTraders/static/js/main.03203afb.js",
     "static/media/meal.mp4": "/hbTraders/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
     "static/media/bg.png": "/hbTraders/static/media/bg.3d421b1b5682e1b67deb.png",
     "static/media/founder.png": "/hbTraders/static/media/founder.fc7ae3b5f4a651e3f978.png",
     "static/media/about_us.jpg": "/hbTraders/static/media/about_us.51495299c282767aacc4.jpg",
     "static/media/trash_heading.jpg": "/hbTraders/static/media/trash_heading.d3514dc2482faa2eaa0f.jpg",
-    "static/media/findus.png": "/hbTraders/static/media/findus.56477cc21d4f81e8f4b7.png",
-    "static/media/award.png": "/hbTraders/static/media/award.7b66b2342ceb25828038.png",
+    "static/media/hb_shop.jpeg": "/hbTraders/static/media/hb_shop.e7c11c9da100c837f22b.jpeg",
     "static/media/overlaybg.png": "/hbTraders/static/media/overlaybg.165362eea72d1614ae28.png",
     "static/media/individual.png": "/hbTraders/static/media/individual.f11a4c00babc0a191669.png",
     "static/media/scrapescale.png": "/hbTraders/static/media/scrapescale.15f84619f07c1e135b6a.png",
+    "static/media/amaan.jpeg": "/hbTraders/static/media/amaan.8a3b28da9710d5f31532.jpeg",
     "static/media/image_gogreen.png": "/hbTraders/static/media/image_gogreen.bd969a357838f59bec4e.png",
     "static/media/sdg.png": "/hbTraders/static/media/sdg.5b950402287a7865cf3d.png",
     "static/media/business.png": "/hbTraders/static/media/business.f01520548493d73434d5.png",
@@ -22,10 +22,10 @@
     "static/media/award03.png": "/hbTraders/static/media/award03.3f7ee934c17dccbd5fc6.png",
     "index.html": "/hbTraders/index.html",
     "main.54c44c41.css.map": "/hbTraders/static/css/main.54c44c41.css.map",
-    "main.c4f49b57.js.map": "/hbTraders/static/js/main.c4f49b57.js.map"
+    "main.03203afb.js.map": "/hbTraders/static/js/main.03203afb.js.map"
   },
   "entrypoints": [
     "static/css/main.54c44c41.css",
-    "static/js/main.c4f49b57.js"
+    "static/js/main.03203afb.js"
   ]
 }
