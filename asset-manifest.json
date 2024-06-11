@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/hbTraders/static/css/main.54c44c41.css",
-    "main.js": "/hbTraders/static/js/main.88c351d4.js",
+    "main.js": "/hbTraders/static/js/main.c4f49b57.js",
     "static/media/meal.mp4": "/hbTraders/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
     "static/media/bg.png": "/hbTraders/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/founder.png": "/hbTraders/static/media/founder.fc7ae3b5f4a651e3f978.png",
     "static/media/about_us.jpg": "/hbTraders/static/media/about_us.51495299c282767aacc4.jpg",
     "static/media/trash_heading.jpg": "/hbTraders/static/media/trash_heading.d3514dc2482faa2eaa0f.jpg",
     "static/media/findus.png": "/hbTraders/static/media/findus.56477cc21d4f81e8f4b7.png",
@@ -21,10 +22,10 @@
     "static/media/award03.png": "/hbTraders/static/media/award03.3f7ee934c17dccbd5fc6.png",
     "index.html": "/hbTraders/index.html",
     "main.54c44c41.css.map": "/hbTraders/static/css/main.54c44c41.css.map",
-    "main.88c351d4.js.map": "/hbTraders/static/js/main.88c351d4.js.map"
+    "main.c4f49b57.js.map": "/hbTraders/static/js/main.c4f49b57.js.map"
   },
   "entrypoints": [
     "static/css/main.54c44c41.css",
-    "static/js/main.88c351d4.js"
+    "static/js/main.c4f49b57.js"
   ]
 }
